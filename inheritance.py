@@ -1,4 +1,4 @@
-
+#This is simple Inheritance Example
 #!/usr/bin/env python3
 class person:
 	def __init__(self,fname,lname):
