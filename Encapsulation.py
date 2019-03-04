@@ -1,4 +1,4 @@
-#Encapsulation in Python
+#Encapsulation in Python.
 class Laptop:
 
     def __init__(self):
