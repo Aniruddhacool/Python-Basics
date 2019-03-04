@@ -1,5 +1,5 @@
+#This is a simple program for Fibonacci Series upto 'N' terms
 nterms = int(input("How many terms? "))
-
 # first two terms
 n1 = 0
 n2 = 1
