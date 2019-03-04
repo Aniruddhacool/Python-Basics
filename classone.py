@@ -1,6 +1,6 @@
 
 
-#Creating Simple Class in Python and accessing the variables and displaying it.
+#Example of Simple Class in Python and accessing the variables and displaying it.
 class classone:
 	var = 30
 
