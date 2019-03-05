@@ -1,3 +1,3 @@
 # Python-Basics
 
-This repo contains basic python progr
+This repo contains basic python programs.
