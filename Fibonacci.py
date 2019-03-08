@@ -1,4 +1,4 @@
-#This is a simple program for Fibonacci Series upto 'N' terms
+#This is a simple program for Fibonacci Series upto 'N' terms.
 nterms = int(input("How many terms? "))
 # first two terms
 n1 = 0
