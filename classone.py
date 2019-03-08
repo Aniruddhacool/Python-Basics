@@ -1,6 +1,6 @@
 
 
-#Example of Simple Class in Python and accessing the variables and displaying it!
+#Example of Simple Class in Python and accessing the variables and displaying it!ghg
 class classone:
 	var = 30
 
