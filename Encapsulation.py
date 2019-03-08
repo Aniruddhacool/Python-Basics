@@ -1,4 +1,4 @@
-#Encapsulation in Python.adada
+#Encapsulation in Python.
 class Laptop:
 
     def __init__(self):
